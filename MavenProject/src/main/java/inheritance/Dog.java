@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance;//pgm1,2
 
 public class Dog extends Animal {
 int num=2;

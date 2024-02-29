@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance;//pgm1,1
 
 public class Animal {
 String name="dog";
